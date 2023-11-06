@@ -1,0 +1,849 @@
+{
+  "ksid": "336",
+  "dtkzs": 1,
+  "gsdy": [
+    {
+      "index": 1,
+      "sjcc": [
+        2287,
+        1577
+      ]
+    },
+    {
+      "index": 2,
+      "sjcc": [
+        2291,
+        1583
+      ]
+    }
+  ],
+  "jxxx": [
+    {
+      "tzmc": "选择题",
+      "tmsl": 12,
+      "stxx": [
+        {
+          "stlx": 1,
+          "stbh": 1,
+          "xzfw": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "positionArea": [
+            {
+              "index": "A",
+              "paperIndex": 1,
+              "location": [
+                [
+                  191,
+                  825
+                ],
+                [
+                  215,
+                  837
+                ]
+              ]
+            },
+            {
+              "index": "B",
+              "paperIndex": 1,
+              "location": [
+                [
+                  221,
+                  825
+                ],
+                [
+                  245,
+                  837
+                ]
+              ]
+            },
+            {
+              "index": "C",
+              "paperIndex": 1,
+              "location": [
+                [
+                  252,
+                  825
+                ],
+                [
+                  276,
+                  837
+                ]
+              ]
+            },
+            {
+              "index": "D",
+              "paperIndex": 1,
+              "location": [
+                [
+                  283,
+                  825
+                ],
+                [
+                  307,
+                  837
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "stlx": 1,
+          "stbh": 2,
+          "xzfw": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "positionArea": [
+            {
+              "index": "A",
+              "paperIndex": 1,
+              "location": [
+                [
+                  191,
+                  845
+                ],
+                [
+                  215,
+                  857
+                ]
+              ]
+            },
+            {
+              "index": "B",
+              "paperIndex": 1,
+              "location": [
+                [
+                  221,
+                  845
+                ],
+                [
+                  245,
+                  857
+                ]
+              ]
+            },
+            {
+              "index": "C",
+              "paperIndex": 1,
+              "location": [
+                [
+                  252,
+                  845
+                ],
+                [
+                  276,
+                  857
+                ]
+              ]
+            },
+            {
+              "index": "D",
+              "paperIndex": 1,
+              "location": [
+                [
+                  283,
+                  845
+                ],
+                [
+                  307,
+                  857
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "stlx": 1,
+          "stbh": 3,
+          "xzfw": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "positionArea": [
+            {
+              "index": "A",
+              "paperIndex": 1,
+              "location": [
+                [
+                  191,
+                  866
+                ],
+                [
+                  215,
+                  878
+                ]
+              ]
+            },
+            {
+              "index": "B",
+              "paperIndex": 1,
+              "location": [
+                [
+                  221,
+                  866
+                ],
+                [
+                  245,
+                  878
+                ]
+              ]
+            },
+            {
+              "index": "C",
+              "paperIndex": 1,
+              "location": [
+                [
+                  252,
+                  866
+                ],
+                [
+                  276,
+                  878
+                ]
+              ]
+            },
+            {
+              "index": "D",
+              "paperIndex": 1,
+              "location": [
+                [
+                  283,
+                  866
+                ],
+                [
+                  307,
+                  878
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "stlx": 1,
+          "stbh": 4,
+          "xzfw": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "positionArea": [
+            {
+              "index": "A",
+              "paperIndex": 1,
+              "location": [
+                [
+                  191,
+                  886
+                ],
+                [
+                  215,
+                  898
+                ]
+              ]
+            },
+            {
+              "index": "B",
+              "paperIndex": 1,
+              "location": [
+                [
+                  221,
+                  886
+                ],
+                [
+                  245,
+                  898
+                ]
+              ]
+            },
+            {
+              "index": "C",
+              "paperIndex": 1,
+              "location": [
+                [
+                  252,
+                  886
+                ],
+                [
+                  276,
+                  898
+                ]
+              ]
+            },
+            {
+              "index": "D",
+              "paperIndex": 1,
+              "location": [
+                [
+                  283,
+                  886
+                ],
+                [
+                  307,
+                  898
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "stlx": 1,
+          "stbh": 5,
+          "xzfw": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "positionArea": [
+            {
+              "index": "A",
+              "paperIndex": 1,
+              "location": [
+                [
+                  360,
+                  824
+                ],
+                [
+                  384,
+                  836
+                ]
+              ]
+            },
+            {
+              "index": "B",
+              "paperIndex": 1,
+              "location": [
+                [
+                  390,
+                  824
+                ],
+                [
+                  414,
+                  836
+                ]
+              ]
+            },
+            {
+              "index": "C",
+              "paperIndex": 1,
+              "location": [
+                [
+                  421,
+                  824
+                ],
+                [
+                  445,
+                  836
+                ]
+              ]
+            },
+            {
+              "index": "D",
+              "paperIndex": 1,
+              "location": [
+                [
+                  452,
+                  824
+                ],
+                [
+                  476,
+                  836
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "stlx": 1,
+          "stbh": 6,
+          "xzfw": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "positionArea": [
+            {
+              "index": "A",
+              "paperIndex": 1,
+              "location": [
+                [
+                  360,
+                  844
+                ],
+                [
+                  384,
+                  856
+                ]
+              ]
+            },
+            {
+              "index": "B",
+              "paperIndex": 1,
+              "location": [
+                [
+                  390,
+                  844
+                ],
+                [
+                  414,
+                  856
+                ]
+              ]
+            },
+            {
+              "index": "C",
+              "paperIndex": 1,
+              "location": [
+                [
+                  421,
+                  844
+                ],
+                [
+                  445,
+                  856
+                ]
+              ]
+            },
+            {
+              "index": "D",
+              "paperIndex": 1,
+              "location": [
+                [
+                  452,
+                  844
+                ],
+                [
+                  476,
+                  856
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "stlx": 1,
+          "stbh": 7,
+          "xzfw": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "positionArea": [
+            {
+              "index": "A",
+              "paperIndex": 1,
+              "location": [
+                [
+                  360,
+                  865
+                ],
+                [
+                  384,
+                  877
+                ]
+              ]
+            },
+            {
+              "index": "B",
+              "paperIndex": 1,
+              "location": [
+                [
+                  390,
+                  865
+                ],
+                [
+                  414,
+                  877
+                ]
+              ]
+            },
+            {
+              "index": "C",
+              "paperIndex": 1,
+              "location": [
+                [
+                  421,
+                  865
+                ],
+                [
+                  445,
+                  877
+                ]
+              ]
+            },
+            {
+              "index": "D",
+              "paperIndex": 1,
+              "location": [
+                [
+                  452,
+                  865
+                ],
+                [
+                  476,
+                  877
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "stlx": 1,
+          "stbh": 8,
+          "xzfw": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "positionArea": [
+            {
+              "index": "A",
+              "paperIndex": 1,
+              "location": [
+                [
+                  360,
+                  885
+                ],
+                [
+                  384,
+                  897
+                ]
+              ]
+            },
+            {
+              "index": "B",
+              "paperIndex": 1,
+              "location": [
+                [
+                  390,
+                  885
+                ],
+                [
+                  414,
+                  897
+                ]
+              ]
+            },
+            {
+              "index": "C",
+              "paperIndex": 1,
+              "location": [
+                [
+                  421,
+                  885
+                ],
+                [
+                  445,
+                  897
+                ]
+              ]
+            },
+            {
+              "index": "D",
+              "paperIndex": 1,
+              "location": [
+                [
+                  452,
+                  885
+                ],
+                [
+                  476,
+                  897
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "stlx": 1,
+          "stbh": 9,
+          "xzfw": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "positionArea": [
+            {
+              "index": "A",
+              "paperIndex": 1,
+              "location": [
+                [
+                  530,
+                  824
+                ],
+                [
+                  554,
+                  836
+                ]
+              ]
+            },
+            {
+              "index": "B",
+              "paperIndex": 1,
+              "location": [
+                [
+                  560,
+                  824
+                ],
+                [
+                  584,
+                  836
+                ]
+              ]
+            },
+            {
+              "index": "C",
+              "paperIndex": 1,
+              "location": [
+                [
+                  591,
+                  824
+                ],
+                [
+                  615,
+                  836
+                ]
+              ]
+            },
+            {
+              "index": "D",
+              "paperIndex": 1,
+              "location": [
+                [
+                  622,
+                  824
+                ],
+                [
+                  646,
+                  836
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "stlx": 1,
+          "stbh": 10,
+          "xzfw": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "positionArea": [
+            {
+              "index": "A",
+              "paperIndex": 1,
+              "location": [
+                [
+                  530,
+                  844
+                ],
+                [
+                  554,
+                  856
+                ]
+              ]
+            },
+            {
+              "index": "B",
+              "paperIndex": 1,
+              "location": [
+                [
+                  560,
+                  844
+                ],
+                [
+                  584,
+                  856
+                ]
+              ]
+            },
+            {
+              "index": "C",
+              "paperIndex": 1,
+              "location": [
+                [
+                  591,
+                  844
+                ],
+                [
+                  615,
+                  856
+                ]
+              ]
+            },
+            {
+              "index": "D",
+              "paperIndex": 1,
+              "location": [
+                [
+                  622,
+                  844
+                ],
+                [
+                  646,
+                  856
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "stlx": 1,
+          "stbh": 11,
+          "xzfw": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "positionArea": [
+            {
+              "index": "A",
+              "paperIndex": 1,
+              "location": [
+                [
+                  530,
+                  865
+                ],
+                [
+                  554,
+                  877
+                ]
+              ]
+            },
+            {
+              "index": "B",
+              "paperIndex": 1,
+              "location": [
+                [
+                  560,
+                  865
+                ],
+                [
+                  584,
+                  877
+                ]
+              ]
+            },
+            {
+              "index": "C",
+              "paperIndex": 1,
+              "location": [
+                [
+                  591,
+                  865
+                ],
+                [
+                  615,
+                  877
+                ]
+              ]
+            },
+            {
+              "index": "D",
+              "paperIndex": 1,
+              "location": [
+                [
+                  622,
+                  865
+                ],
+                [
+                  646,
+                  877
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "stlx": 1,
+          "stbh": 12,
+          "xzfw": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "positionArea": [
+            {
+              "index": "A",
+              "paperIndex": 1,
+              "location": [
+                [
+                  530,
+                  885
+                ],
+                [
+                  554,
+                  897
+                ]
+              ]
+            },
+            {
+              "index": "B",
+              "paperIndex": 1,
+              "location": [
+                [
+                  560,
+                  885
+                ],
+                [
+                  584,
+                  897
+                ]
+              ]
+            },
+            {
+              "index": "C",
+              "paperIndex": 1,
+              "location": [
+                [
+                  591,
+                  885
+                ],
+                [
+                  615,
+                  897
+                ]
+              ]
+            },
+            {
+              "index": "D",
+              "paperIndex": 1,
+              "location": [
+                [
+                  622,
+                  885
+                ],
+                [
+                  646,
+                  897
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tzmc": "主观题",
+      "tmsl": 0,
+      "stxx": []
+    }
+  ]
+}
