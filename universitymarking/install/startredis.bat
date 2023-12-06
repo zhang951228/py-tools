@@ -1,5 +1,5 @@
 set "universitymarkignurl=C:\myftp"
-echo "start rocketmq"
+echo "start redis server"
 cd "%universitymarkignurl%\redis"
 echo "%cd%"
 

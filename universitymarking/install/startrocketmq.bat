@@ -1,5 +1,5 @@
 set "universitymarkignurl=C:\myftp"
-echo "start rocketmq"
+echo "start rocketmq server"
 cd "%universitymarkignurl%\rocketmq\bin"
 echo "%cd%"
 start mqnamesrv.cmd -c  ..\conf\namesrv.properties
