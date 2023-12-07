@@ -1,5 +1,6 @@
-set "universitymarkignurl=C:\myftp"
 echo "start rocketmq"
 cd "%universitymarkignurl%\tomcat\bin"
-echo "%cd%"
 startup.bat
+
+cd "%bootpath%"
+echo "end start tomcat server"

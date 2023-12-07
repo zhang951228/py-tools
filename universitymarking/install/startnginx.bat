@@ -1,15 +1,13 @@
-set "universitymarkignurl=C:\myftp"
 echo "start nginx"
 cd "%universitymarkignurl%\nginx\nginxstartup.bat"
-echo "%cd%"
 @echo off
 rem 当前bat的作用
 
 echo ==================begin========================
 
 cls
-SET NGINX_PATH=C:
-SET NGINX_DIR=C:\Program Files\nginx-1.19.7\
+SET NGINX_PATH=E:
+SET NGINX_DIR=E:\universityMarking\nginx\
 color 0a
 TITLE Nginx 管理程序
 
@@ -28,3 +26,6 @@ IF EXIST "%NGINX_DIR%nginx.exe" (
     start "" nginx.exe
 )
 ECHO.OK
+
+cd "%bootpath%"
+echo "end start nginx server"

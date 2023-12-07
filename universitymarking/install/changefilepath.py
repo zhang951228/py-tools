@@ -118,10 +118,6 @@ def initrocketmq(targeturl: str, existurl: str):
     targetstr = [f"set \"JAVA_HOME={targeturl}/jdk/jdk8\""]
     lineReplaceStartWith(f"{existurl}/rocketmq/bin/runbroker.cmd",
                          originalstr, targetstr)
-    originalstr = ["set\"targeturl"]
-    targetstr = [f"set \"targeturl={targeturl}\""]
-    lineReplaceStartWith(f"{existurl}/starter/startrocketmq.bat",
-                         originalstr, targetstr)
 
 
 def initredis(targeturl: str, existurl: str):
@@ -134,10 +130,6 @@ def initredis(targeturl: str, existurl: str):
     targetstr = [f"logfile {targeturl}/redis/logs/redisser.log"]
     lineReplaceStartWith(f"{existurl}/redis/redis.windows-service.conf",
                          originalstr, targetstr)
-    originalstr = ["set\"targeturl"]
-    targetstr = [f"set \"targeturl={targeturl}\""]
-    lineReplaceStartWith(f"{existurl}/starter/startredis.bat",
-                         originalstr, targetstr)
 
 
 def inittomcat(targeturl: str, existurl: str):
@@ -145,10 +137,7 @@ def inittomcat(targeturl: str, existurl: str):
     targetstr = [f"set \"JAVA_HOME={targeturl}/jdk/jdk8\""]
     lineReplaceStartWith(f"{existurl}/tomcat/bin/catalina.bat",
                          originalstr, targetstr)
-    originalstr = ["set\"targeturl"]
-    targetstr = [f"set \"targeturl={targeturl}\""]
-    lineReplaceStartWith(f"{existurl}/starter/starttomcat.bat",
-                         originalstr, targetstr)
+
 
 
 def initapp(targeturl: str, existurl: str):
