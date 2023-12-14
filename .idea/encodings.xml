@@ -4,6 +4,8 @@
     <file url="file://$PROJECT_DIR$/universitymarking/install/bak/initmysql.bat" charset="GBK" />
     <file url="file://$PROJECT_DIR$/universitymarking/install/bb.bat" charset="GBK" />
     <file url="file://$PROJECT_DIR$/universitymarking/install/initmysql.bat" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/universitymarking/install/menustart.bat" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/universitymarking/install/nginxstartup.bat" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/universitymarking/install/startmysql.bat" charset="GBK" />
   </component>
 </project>
