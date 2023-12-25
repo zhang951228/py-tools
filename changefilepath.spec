@@ -2,7 +2,7 @@
 
 
 a = Analysis(
-    ['changefilepath.py'],
+    ['universitymarking\\install\\changefilepath.py'],
     pathex=[],
     binaries=[],
     datas=[],
